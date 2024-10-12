@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+- 😄
 
 <!---
 LivVelazquez/LivVelazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
